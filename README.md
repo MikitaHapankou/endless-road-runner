@@ -2,23 +2,23 @@
 
 A **Crossy Road**-inspired terminal game developed in **C** as a first-semester university project.
 
-## 📌 Overview
+## Overview
 
 Crossy Road is a simple terminal-based game where the player controls a frog attempting to cross a series of roads, avoiding cars, trees, and a chasing stork. The game is built using **C** and utilizes the **PDCurses library** for terminal rendering.
 
-## 🎮 Features
+## Features
 
 - **3-level gameplay**: Progress through 3 levels by reaching the end of each.
 - **Obstacles**: Increasing difficulty over time, friendly and enemy cars.
 - **Simple controls**: Use the keyboard to navigate.
 - **Time tracking**: Saves high scores to a leaderboard.
 
-## ⌨️ Controls
+## Controls
 
 - **Arrow keys**: Move the player up, down, left, and right.
 - **Esc**: Exit the game.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 endless-road-runner-c/       # Root project folder
@@ -36,7 +36,7 @@ endless-road-runner-c/       # Root project folder
 └── README.md                # Project documentation
 ```
 
-## 📜 License
+## License
 
-This project is open-source, and licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source, and licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
 
